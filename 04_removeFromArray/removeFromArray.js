@@ -15,6 +15,3 @@ const removeFromArray = function (inputs, ...rest) {
 
 // Do not edit below this line
 module.exports = removeFromArray;
-//for every item of inputs i need to remove every item of rest
-//so for every input - do remove item[i] of rest
-//for every rest - remove that item from inputs[];
